@@ -3,5 +3,8 @@ Rencana Hidup
 - Javascript
   * ES 6
   * Framework JS baru
+   ^vue
 - Fundamental Data Structure
 - PHP
+ ^ Laravel
+Python
