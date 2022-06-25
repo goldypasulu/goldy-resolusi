@@ -4,6 +4,7 @@ Rencana Hidup
   * ES 6
   * Framework JS baru
    ^vue
+   ^react
 - Fundamental Data Structure
 - PHP
  ^ Laravel
