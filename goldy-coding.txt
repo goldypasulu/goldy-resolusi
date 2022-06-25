@@ -3,4 +3,5 @@ Rencana Hidup
 - Javascript
   * ES 6
   * Framework JS baru
+- Fundamental Data Structure
 - PHP
