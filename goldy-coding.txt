@@ -3,7 +3,9 @@ Rencana Hidup
 - Javascript
   * ES 6
   * Framework JS baru
-   ^ Angular
-   ^ React
+   ^vue
+   ^react
+- Fundamental Data Structure
 - PHP
-  ^ Laravel
+ ^ Laravel
+Python
