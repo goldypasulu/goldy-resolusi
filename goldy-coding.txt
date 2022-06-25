@@ -1,4 +1,6 @@
 Rencana Hidup
 
 - Javascript
+  * ES 6
+  * Framework JS baru
 - PHP
